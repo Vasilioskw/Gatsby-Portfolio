@@ -53,16 +53,16 @@ export const projectsData = [
     info2: 'I would love to discuss how I marketed and managed 50+ properties across the country, in a sucessful, organized effort.',
     url: 'https://www.crexi.com/profile/vasilios-kambouras-thegreekr',
     repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  }
+  // {
+  //   id: nanoid(),
+  //   img: 'project.jpg',
+  //   title: '',
+  //   info: '',
+  //   info2: '',
+  //   url: '',
+  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
