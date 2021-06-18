@@ -38,21 +38,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 're-proj.png',
+    title: 'The Public Property & Buyer Portfolio',
+    info: 'This is a full-stack application, utilizing Node.JS, Sequelize / MySQL, elephantsql, postgres, Beekeeper studio, JavaScript, and express + es6Renderer) ',
+    info2: 'In ambitions to create the real estate application of my dreams, to meet dealines I pivated the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
+    url: 'https://public-real-estate-forum.herokuapp.com/ ',
+    repo: 'https://github.com/Vasilioskw/The_Big_Box_Group', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'crexi1.png',
+    title: 'Managed Real Estate Portfolio',
+    info: 'The link below goes to my Crexi profile that has some of the real estate portfolio I manage - many are also "off-marketed" by means of direct emails.',
+    info2: 'I would love to discuss how I marketed and managed 50+ properties across the country, in a sucessful, organized effort.',
+    url: 'https://www.crexi.com/profile/vasilios-kambouras-thegreekr',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -69,7 +69,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'VasiliosKw@Gmail.com',
 };
 
 // FOOTER DATA
@@ -77,23 +77,13 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/vasilios-kambouras-114327157/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/Vasilioskw',
     },
   ],
 };
