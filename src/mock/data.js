@@ -29,10 +29,10 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project1-1.png',
+    img: 'caq1.png',
     title: 'Cocktails & Quotes',
-    info: 'This is a fun, social drinking game that utilizes two seperate APIs. The game is simple; After making your drink, you click the card to get a random Ron Swanson quote. If you laugh, you spin the wheel and see what it says to do.',
-    info2: 'The first API is a seachable index of drink names, ingredients, and a corresponding image of the drink. This is done using AJAX requests and Promises. Finally, "For" and "While" loops are used to render out the data in a formated order. For the second API we did a similar proccess, but instead used "Math.random" for rendering. As a creative addition, we made a spin-able wheel - entirely out of CSS!',
+    info: 'This is a fun, social drinking game that utilizes two separate APIs. The game is simple; After making your drink, you click the card to get a random Ron Swanson quote. If you laugh, you spin the wheel and see what it says to do.',
+    info2: 'The first API is a seachable index of drink names, ingredients, and a corresponding image of the drink. This is done using AJAX requests and Promises. Finally, "For" and "While" loops are used to render out the data in a formated order. For the second API we did a similar process, but instead used "Math.random" for rendering. As a creative addition, we made a spin-able wheel - entirely out of CSS!',
     url: 'https://cocktails-and-quotes.netlify.app',
     repo: 'https://github.com/Vasilioskw/cocktail-Project', // if no repo, the button will not show up
   },
