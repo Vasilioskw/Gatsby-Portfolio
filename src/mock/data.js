@@ -40,8 +40,8 @@ export const projectsData = [
     id: nanoid(),
     img: 're-proj.png',
     title: 'The Public Property & Buyer Portfolio',
-    info: 'This is a full-stack application, utilizing Node.JS, Sequelize / MySQL, elephantsql, postgres, Beekeeper studio, JavaScript, and express + es6Renderer). Please, give server a moment to wake up if viewing.',
-    info2: 'In ambitions to create the real estate application of my dreams, to meet dealines I pivated the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
+    info: 'This is a full-stack application, utilizing Node.JS, Sequelize / MySQL, elephantsql, Postgres, Beekeeper studio, JavaScript, and Express.JS + es6Renderer). Please, give the server a moment to wake up if viewing.',
+    info2: 'In ambitions to create the real estate application of my dreams, to meet deadlines I pivoted the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
     url: 'https://public-real-estate-forum.herokuapp.com/ ',
     repo: 'https://github.com/Vasilioskw/The_Big_Box_Group', // if no repo, the button will not show up
   },
