@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Born in New York, I moved to Houston, Texas to focus on myself and expand opportunities in my field of work. Currently, I do real estate marketing with a small team that oversees 50+ properties in over 12 states. Working on a commission basis, I\'ve constantly had to innovate myself in a field no-one ever trained me for.',
   paragraphTwo: 'Seeing the limitations of marketing, and just how out-dated the real estate industry has become, I\'ve turned to learning full-stack software engineering / development. I\'m hoping to build a social, real estate, data-base matching application that will revolutionize the industry.',
   paragraphThree: 'With first-hand experience in issues the real estate industry is facing, I have already completed a down-scaled project version that utilizes SQL (Sequelize ORM), Postgres, JavaScript, HTML, NPM packages (such as: express es6 template engine). To build towards a full-scale version, I\'m working on the addition of PG Promise functionality, Redux, and React ( React is awesome and scale-able!).',
-  paragraphThree: 'This "about me" can\'t be complete without mentioning my deep involvment with original yoga from Isha Foundation. My routine practice has helped shape me into an inclusive human-being. It has allowed my leadership to find concious expression. It has made my responability unlimited, so that I can do what\'s needed in the world - and do it with tremendous joy. I wish this upon everyone.',
+  paragraphThree: 'This "about me" can\'t be complete without mentioning my deep involvement with original yoga from Isha Foundation. My routine practice has helped shape me into an inclusive human-being. It has allowed my leadership to find conscious expression. It has made my responsibility unlimited so that I can do what\'s needed in the world - and do it with tremendous joy. I wish this upon everyone.',
   resume: 'https://drive.google.com/file/d/1qdR1hV9Np2BcotV7QqKWr7qqQrV2Za7j/view?usp=sharing', // if no resume, the button will not show up
 };
 
@@ -40,8 +40,8 @@ export const projectsData = [
     id: nanoid(),
     img: 're-proj.png',
     title: 'The Public Property & Buyer Portfolio',
-    info: 'This is a full-stack application, utilizing Node.JS, Sequelize / MySQL, elephantsql, postgres, Beekeeper studio, JavaScript, and express + es6Renderer). Please, give server a moment to wake up if viewing.',
-    info2: 'In ambitions to create the real estate application of my dreams, to meet dealines I pivated the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
+    info: 'This is a full-stack application, utilizing Node.JS, Sequelize / MySQL, elephantsql, Postgres, Beekeeper studio, JavaScript, and Express.JS + es6Renderer). Please, give the server a moment to wake up if viewing.',
+    info2: 'In ambitions to create the real estate application of my dreams, to meet deadlines I pivoted the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
     url: 'https://public-real-estate-forum.herokuapp.com/ ',
     repo: 'https://github.com/Vasilioskw/The_Big_Box_Group', // if no repo, the button will not show up
   },
