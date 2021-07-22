@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 're-proj.png',
+    title: 'The Personal Work out App',
+    info: 'The Personal Work out App was built to address the challenges the fitness community and individuals face, due to a lack out tools that can help structure a diverse work-out routine. The WOL App lets YOU choose from a range of work-outs that can be structured in a personal list, and further costumized into sets, with different variable per set (such as weight and reps).',
+    info2: 'In ambitions to create the real estate application of my dreams, to meet deadlines I pivoted the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
+    url: 'https://enigmatic-beyond-77969.herokuapp.com/ ',
+    repo: 'https://github.com/etreadway/workout-app', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'crexi1.png',
     title: 'Managed Real Estate Portfolio',
     info: 'The link below goes to my Crexi profile that has some of the real estate portfolio I manage - many are also "off-marketed" by means of direct emails.',
