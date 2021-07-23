@@ -49,9 +49,18 @@ export const projectsData = [
     img: 'pwa-app.png',
     title: 'Personal Workout App',
     info: 'The Personal Work out App allows users to select a workout and customize apects from reps, sets, weight, ect.',
-    info2: 'As a MERN / Full-stack React App, it utilizes React hooks that pull from our own API to render default values passed through props. The styling consists of React-bootstrap and our back-end is MongoDB. NodeJS was also used for its Express.JS(+es6 renderer) to allow data to pass through new sets added by the user.',
+    info2: 'As a MERN / Full-stack React App, it utilizes React hooks that pull from our own API to render default values passed through props. The styling consists of React-bootstrap and our back-end is MongoDB. NodeJS was also used for its Express.JS(+es6 renderer) to allow data to pass through during CRUD opperations.',
     url: 'https://enigmatic-beyond-77969.herokuapp.com/ ',
     repo: 'https://github.com/etreadway/workout-app', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Dev Arcade',
+    title: 'dev-arcade.png',
+    info: 'The Dev Arcade is an 80s-themed virtual arcade machine. Each game was made by a differnt team - I was the SCRUM master / tea leader for the Chess game.',
+    info: 'Our Chess game utilized existing packages to build out the front-end and restrict player movement to the rules of the game. React-Redux and state is used for storing player names and keeping track of score.',
+    url: 'Hosting Website soon*',
+    repo: 'https://github.com/DigitalCraftsStudents/dev-arcade', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
