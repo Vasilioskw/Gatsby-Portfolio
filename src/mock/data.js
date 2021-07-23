@@ -46,10 +46,10 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 're-proj.png',
-    title: 'The Personal Work out App',
-    info: 'The Personal Work out App was built to address the challenges the fitness community and individuals face, due to a lack out tools that can help structure a diverse work-out routine. The WOL App lets YOU choose from a range of work-outs that can be structured in a personal list, and further costumized into sets, with different variable per set (such as weight and reps).',
-    info2: 'In ambitions to create the real estate application of my dreams, to meet deadlines I pivoted the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
+    img: 'pwa-app.png',
+    title: 'Personal Workout App',
+    info: 'The Personal Work out App allows users to select a workout and customize apects from reps, sets, weight, ect.',
+    info2: 'As a MERN / Full-stack React App, it utilizes React hooks that pull from our own API to render default values passed through props. The styling consists of React-bootstrap and our back-end is MongoDB.',
     url: 'https://enigmatic-beyond-77969.herokuapp.com/ ',
     repo: 'https://github.com/etreadway/workout-app', // if no repo, the button will not show up
   },
