@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'head_shot12.jpeg',
   paragraphOne: 'Living between New York & Texas - I manage 50+ properties across the sunbelt for an individuals\' real estate portfolio. Seeing just how outdated real estate marketing has become, I\'ve earned a certificate in "Full Stack Software Development" with DigitalCrafts and plan to build an application that will disrupt the industry.',
-  paragraphTwo: 'My area of understanding includes HTML, CSS, CLI, JavaScript, jQuery, Promises, Axios, AJAX, NodeJS, Express (+ Express Template Engine & Middleware), Ruby (+ Ruby on Rails), PostgreSQL, React JS, Redux, Data Modeling, pg-Promise, Sequelize ORM, & state management. I\'m also learning Ruby with the Ruby on Rails Framework & C# with the .Net framework.',
+  paragraphTwo: 'My area of understanding includes HTML, CSS, CLI, JavaScript / React JS, Ruby / Ruby on Rails, Python / Django / Django Rest Framework, jQuery, Promises, Axios, AJAX, NodeJS, Express, Middleware, PostgreSQL, Redux, Data Modeling, pg-Promise, Sequelize ORM, & state management.',
   paragraphThree: 'This "about me" can\'t be complete without mentioning my deep involvement in original yoga, from Isha Foundation. My routine practice has helped shape me into an inclusive human-being, looking out for everyones\' well-being. It has allowed my leadership to find conscious expression. It has made my responsibility unlimited so that I can do what\'s needed in the world - and do it with tremendous joy. I wish this upon everyone.',
-  resume: 'https://drive.google.com/file/d/1qdR1hV9Np2BcotV7QqKWr7qqQrV2Za7j/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1Gkzpvgh1N3ZlMLt-E02-3Q57_uLJV35w/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -43,6 +43,24 @@ export const projectsData = [
     info2: 'In ambitions to create the real estate application of my dreams, to meet deadlines I pivoted the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
     url: 'https://public-real-estate-forum.herokuapp.com/ ',
     repo: 'https://github.com/Vasilioskw/The_Big_Box_Group', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'pwa-app.png',
+    title: 'Personal Workout App',
+    info: 'The Personal Work out App allows users to select a workout and customize apects from reps, sets, weight, ect.',
+    info2: 'As a MERN / Full-stack React App, it utilizes React hooks that pull from our own API to render default values passed through props. The styling consists of React-bootstrap and our back-end is MongoDB. NodeJS was also used for its Express.JS(+es6 renderer) to allow data to pass through during CRUD opperations.',
+    url: 'https://enigmatic-beyond-77969.herokuapp.com/ ',
+    repo: 'https://github.com/etreadway/workout-app', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'Dev Arcade',
+    title: 'dev-arcade.png',
+    info: 'The Dev Arcade is an 80s-themed virtual arcade machine. Each game was made by a differnt team - I was the SCRUM master / tea leader for the Chess game.',
+    info: 'Our Chess game utilized existing packages to build out the front-end and restrict player movement to the rules of the game. React-Redux and state is used for storing player names and keeping track of score.',
+    url: 'Hosting Website soon*',
+    repo: 'https://github.com/DigitalCraftsStudents/dev-arcade', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
