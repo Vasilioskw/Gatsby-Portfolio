@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'caq1.png',
-    title: 'Cocktails & Quotes',
+    title: 'Cocktails & Quotes 🍸',
     info: 'This is a fun, social drinking game that utilizes two separate APIs. The game is simple; After making your drink, you click the card to get a random Ron Swanson quote. If you laugh, you spin the wheel and see what it says to do.',
     info2: 'The first API is a seachable index of drink names, ingredients, and a corresponding image of the drink. This is done using AJAX requests and Promises. Finally, "For" and "While" loops are used to render out the data in a formated order. For the second API we did a similar process, but instead used "Math.random" for rendering. As a creative addition, we made a spin-able wheel - entirely out of CSS!',
     url: 'https://cocktails-and-quotes.netlify.app',
@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 're-proj.png',
-    title: 'The Public Property & Buyer Portfolio',
+    title: 'The Public Property & Buyer Portfolio 🏢',
     info: 'This is a full-stack application, utilizing Node.JS, Sequelize / MySQL, elephantsql, Postgres, Beekeeper studio, JavaScript, and Express.JS + es6Renderer). Please, give the server a moment to wake up if viewing.',
     info2: 'In ambitions to create the real estate application of my dreams, to meet deadlines I pivoted the concept and downscaled the project. I\'m hoping this project serves as a launching pad to a more advanced product that can be commercialized.',
     url: 'https://public-real-estate-forum.herokuapp.com/ ',
@@ -47,7 +47,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'pwa-app.png',
-    title: 'Personal Workout App',
+    title: 'Personal Workout App 🏋🏽‍♀️',
     info: 'The Personal Work out App allows users to select a workout and customize apects from reps, sets, weight, ect.',
     info2: 'As a MERN / Full-stack React App, it utilizes React hooks that pull from our own API to render default values passed through props. The styling consists of React-bootstrap and our back-end is MongoDB. NodeJS was also used for its Express.JS(+es6 renderer) to allow data to pass through during CRUD opperations.',
     url: 'https://enigmatic-beyond-77969.herokuapp.com/ ',
@@ -55,8 +55,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Dev Arcade',
-    title: 'dev-arcade.png',
+    img: 'dev-arcade.png',
+    title: 'The Dev Arcade 👾',
     info: 'The Dev Arcade is an 80s-themed virtual arcade machine. Each game was made by a differnt team - I was the SCRUM master / tea leader for the Chess game.',
     info: 'Our Chess game utilized existing packages to build out the front-end and restrict player movement to the rules of the game. React-Redux and state is used for storing player names and keeping track of score.',
     url: 'Hosting Website soon*',
@@ -65,7 +65,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'crexi1.png',
-    title: 'Managed Real Estate Portfolio',
+    title: 'Managed Real Estate Portfolio 🏢',
     info: 'The link below goes to my Crexi profile that has some of the real estate portfolio I manage - many are also "off-marketed" by means of direct emails.',
     info2: 'I would love to discuss how I marketed and managed 50+ properties across the country, in a sucessful, organized effort.',
     url: 'https://www.crexi.com/profile/vasilios-kambouras-thegreekr',
