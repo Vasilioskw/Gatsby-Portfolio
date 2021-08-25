@@ -59,7 +59,7 @@ export const projectsData = [
     title: 'The Dev Arcade 👾',
     info: 'The Dev Arcade is an 80s-themed virtual arcade machine. Each game was made by a differnt team - I was the SCRUM master / tea leader for the Chess game.',
     info: 'Our Chess game utilized existing packages to build out the front-end and restrict player movement to the rules of the game. React-Redux and state is used for storing player names and keeping track of score.',
-    url: 'Hosting Website soon*',
+    url: 'https://dev-arcade.herokuapp.com/',
     repo: 'https://github.com/DigitalCraftsStudents/dev-arcade', // if no repo, the button will not show up
   },
   {
