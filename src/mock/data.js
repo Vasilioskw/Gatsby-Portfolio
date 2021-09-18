@@ -55,7 +55,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 're-proj.png',
+    img: 'property-finder.png',
     title: 'The Property Finder App 🏢',
     info: 'This is a full-stack application, utilizing Node.JS, Ruby, Ruby on Rails framework, SQLite, Postgres, Beekeeper studio, JavaScript, Jquery, Active storage, AWS S3 Bucket, devise gem (email verifacation), embedded google maps and more still being deleloped!',
     info2: 'In ambitions to create the real estate application of my dreams, this is my second improved version, to serve as a launching pad to a more advanced product that can be commercialized.',
