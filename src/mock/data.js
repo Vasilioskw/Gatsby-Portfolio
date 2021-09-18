@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hello, my name\'s',
   name: 'Vasilios Kambouras',
   subtitle: '(Former RE Portfolio Manager) I\'m a Full Stack Web Developer and upcoming Data Scientist!',
-  cta: 'Read more!',
+  cta: '',
 };
 
 // ABOUT DATA
