@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name\'s',
   name: 'Vasilios Kambouras',
-  subtitle: '(Former RE Portfolio Manager) I\'m a Full Stack Web Developer and upcoming Data Scientist!',
+  subtitle: 'From Real estate Portfolio Manager - To Full Stack Web Developer and upcoming Data Scientist!',
   cta: '',
 };
 
@@ -56,7 +56,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'property-finder.png',
-    title: 'The Property Finder App 🏢',
+    title: 'Property Finder App 🏢',
     info: 'This is a full-stack application, utilizing Node.JS, Ruby, Ruby on Rails framework, SQLite, Postgres, Beekeeper studio, JavaScript, Jquery, Active storage, AWS S3 Bucket, devise gem (email verifacation), embedded google maps and more still being deleloped!',
     info2: 'In ambitions to create the real estate application of my dreams, this is my second improved version, to serve as a launching pad to a more advanced product that can be commercialized.',
     url: '',
