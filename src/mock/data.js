@@ -11,14 +11,14 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name\'s',
   name: 'Vasilios Kambouras',
-  subtitle: 'From Real estate Portfolio Manager - To Full Stack Web Developer and upcoming Data Scientist!',
+  subtitle: 'I\'m a Full Stack Web Developer and upcoming Data Scientist!',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'head_shot12.jpeg',
-  paragraphOne: 'Living between New York & Texas - I manage 50+ properties across the sunbelt for an individuals\' real estate portfolio. Seeing just how outdated real estate marketing has become, I\'ve earned a certificate in "Full-Stack Web Development" with DigitalCrafts and now learning "Full-Stack Data Science" with Magnimind Academy (Graduation January 2022).',
+  paragraphOne: 'Living between New York & Texas - I managed 50+ properties across the sunbelt for an individuals\' real estate portfolio. Seeing just how outdated real estate marketing has become, I earned a certificate in "Full-Stack Web Development" with DigitalCrafts and now learning "Full-Stack Data Science" with Magnimind Academy (Graduation January 2022) to improve the field.',
   paragraphTwo: 'My area of understanding includes HTML, CSS, CLI, JavaScript / React JS, Ruby / Ruby on Rails, Python / Django / Django Rest Framework, jQuery, Promises, Axios, AJAX, NodeJS, Express, Middleware, PostgreSQL, Redux, Data Modeling, pg-Promise, Sequelize ORM, & state management.  I’m always joining meet-ups / webinars on Javascript, React, Python, Django, and algorithms to improve my knowledge of software and work in a team environment.',
   paragraphThree: 'This "about me" can\'t be complete without mentioning my deep involvement in original yoga, from Isha Foundation. My routine practice has helped shape me into an inclusive human-being, looking out for everyones\' well-being. It has allowed my leadership to find conscious expression. It has made my responsibility unlimited so that I can do what\'s needed in the world - and do it with tremendous joy. I wish this upon everyone.',
   resume: 'https://drive.google.com/file/d/1Gkzpvgh1N3ZlMLt-E02-3Q57_uLJV35w/view?usp=sharing', // if no resume, the button will not show up
